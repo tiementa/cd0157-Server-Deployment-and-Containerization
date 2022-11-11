@@ -39,7 +39,7 @@ Parameters:
     ConstraintDescription: You must enter a GitHub personal access token
 
   GitHubUser:
-    Type: tiementa
+    Type:tiementa
     Default: SudKul
     Description: GitHub username or organization
     MinLength: 3
