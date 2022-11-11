@@ -39,8 +39,8 @@ Parameters:
     ConstraintDescription: You must enter a GitHub personal access token
 
   GitHubUser:
-    Type:tiementa
-    Default: SudKul
+    Type: String
+    Default: tiementa
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
